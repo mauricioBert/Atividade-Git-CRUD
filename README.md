@@ -54,6 +54,7 @@ Neste pequeno trecho de codigo criamos a Database e usamos a funcão "USE" para 
   Claro Existem outros tipos de variaveis, como o "INT" que támbem aparece no codigo, ele serve para números inteiros.
   
 <hr></hr>
+
 ![image](https://user-images.githubusercontent.com/128431515/228087736-2461bc86-591a-4c69-9a62-e0053925447a.png)
 
 
