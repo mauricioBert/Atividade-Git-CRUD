@@ -3,7 +3,7 @@ Atividade CRUD com o GitHub
 
 <h1>Olá, amigo Dev, sejam bem-vindos no meu GitHub!!
 
-<h1>Nesse documentário vamos aprender e entender como funciona o CRUD e como usaremos. Mas antes de tudo, o que significa essa palavra?? 
+<h1>Nesse documentário vamos aprender e entender como funciona o CRUD e como usaremos. Mas antes de tudo, o que significa essa palavra?? </h1>
 Crud vem de:
 Create - Criar
 Read - Ler
