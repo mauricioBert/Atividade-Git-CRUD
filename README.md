@@ -1,7 +1,7 @@
 # Atividade-Git-CRUD
 Atividade CRUD com o GitHub
 
-<h1>Olá, amigo Dev, sejam bem-vindos no meu GitHub!!<h1>
+<h1>Olá, amigo Dev, sejam bem-vindos no meu GitHub!!
 
 Nesse documentário vamos aprender e entender como funciona o CRUD e como usaremos. Mas antes de tudo, o que significa essa palavra?? 
 Crud vem de:
@@ -51,7 +51,7 @@ Neste pequeno trecho de codigo criamos a Database e usamos a funcão "USE" para 
               
   
   
-  Claro Existem outros tipos de variaveis, como o "INT" que támbem aparece no codigo, ele serve para números inteiros.
+  Claro Existem outros tipos de variaveis, como o "INT" que támbem aparece no codigo, ele serve para números inteiros.</h1>
   
 <hr></hr>
 
