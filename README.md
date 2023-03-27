@@ -12,7 +12,7 @@ Delete - Deletar
 
 Essa é a parte somente da Aplicação, ainda precisamos fazer a parte do Banco de Dados...
 
-
+<hr>
 
 No Banco você deve fazer a criação da DataBase, ela é o Banco onde vai ficar as suas tabelas. Após isso devemos fazer a criação da
 nossa Tabela e os seus campos(colunas).
@@ -23,7 +23,6 @@ Ex:
 Nesta imagem podemos retirar algumas informações muito preciosas para entender como funciona uma criação de uma tabela de forma
 manual.
 
-<hr>
 ![image](https://user-images.githubusercontent.com/128431515/228085520-8c5e47c6-9667-4592-9ef6-75649d32da35.png)
 
 Neste pequeno trecho de codigo criamos a Database e usamos a funcão "USE" para podermos nos referirmos a esse Banco.
