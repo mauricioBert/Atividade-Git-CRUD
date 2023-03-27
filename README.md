@@ -29,7 +29,7 @@ manual.
 
 Neste pequeno trecho de codigo criamos a Database e usamos a funcão "USE" para podermos nos referirmos a esse Banco.
 
-  
+  <hr></hr>
 
 ![image](https://user-images.githubusercontent.com/128431515/228086170-2a5b4dfe-371a-4991-a042-2c70aef2a16c.png)
 
