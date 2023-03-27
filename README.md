@@ -29,10 +29,39 @@ manual.
 
 Neste pequeno trecho de codigo criamos a Database e usamos a funcão "USE" para podermos nos referirmos a esse Banco.
 
+  
 
+![image](https://user-images.githubusercontent.com/128431515/228086170-2a5b4dfe-371a-4991-a042-2c70aef2a16c.png)
 
+  Aqui Inserimos a Tabela "carros" com algumas colunas. Sempre que for criar as colunas não se esqueça de colocar o tipo que ela é.
+  
+  
+  :Calma, "o tipo que ela é"??? Como assim cara?
+  .
+  .
+  .
+  .
+  .
+  .
+  
+  Sim, isso mesmo, como podemos ver na imagem tem algumas palavras diferentes do nosso vocabulo, como o "VARCHAR", esse nome é
+  variável, ela redefine uma informação que queremos colocar, ela pode ser usada quando queremos inserir um caracter no Banco.
+  Ex: Quero colocar uma palavra -->VARCHAR
+                        letras e números --> VARCHAR
+              
+  
+  
+  Claro Existem outros tipos de variaveis, como o "INT" que támbem aparece no codigo, ele serve para números inteiros.
+  
+<hr></hr>
+![image](https://user-images.githubusercontent.com/128431515/228087736-2461bc86-591a-4c69-9a62-e0053925447a.png)
 
 
 Ok, já temos um começo, legal. Mas agora vamos colocar a mão na massa, 
 
+
+
+
+
+https://www.macoratti.net/11/03/sql_nv1.htm
 
