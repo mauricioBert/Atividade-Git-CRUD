@@ -73,6 +73,7 @@ Já pode ir abrindo o seu Visual Studio Code ou o seu Sublime Text e fique atent
 
 
 
+![gif](https://user-images.githubusercontent.com/128431515/228334861-b5c09ee6-987f-46ea-9a89-837ba14626a5.gif)
 
 
 
