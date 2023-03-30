@@ -31,16 +31,45 @@ nossa Tabela e os seus <b>Campos(colunas)</b>.<p>
 <hr></hr>
 
 
-Ok, agora devemos pegar os arquivos que contem o nosso formulário.
+Antes de tudo, você deve saber que os nossos arquivos deverão sempre estar na pasta htdocs, é lá onde faz a magica acontecer. Para encontrar o htdocs é simples.
+
+Você entra no disco local C: do seu computador
+
+(imagem)
+<hr>
+Após isso, deverá entrar na pasta xampp
+(imagem)
+<hr>
+Em seguida no htdocs e colocar o seu projeto lá
+(imgem)
 
 
-Já pode ir abrindo o seu Visual Studio Code ou o seu Sublime Text e começar a entender o que cada parte funciona.
-
-
+ <hr>
+Agora nós iremos codar um pouco. já podemos ir abrindo o seu Visual Studio Code ou o seu Sublime Text e começar a entender o que cada parte funciona.
 
 
 ![gif](https://user-images.githubusercontent.com/128431515/228334861-b5c09ee6-987f-46ea-9a89-837ba14626a5.gif)
 
+<hr>
+Ok, agora devemos pegar os arquivos que contem o nosso formulário.
+
+(imgem)
+
+<hr>
+
+O arquivo conexao.php é o que faz o ligamento com o banco de dados, ele é um dos arquivos chaves para poder fazer o CRUD.
+
+(imagem)
+
+<hr>
+No nosso projeto temos a tela principal que é o index, ela é onde fica a visualização do nosso formulário e é nela que damos o ponta pé inicial 
+no projeto.
+
+(imagem)
+<hr>
+
+Concluimos por aqui, entendemos como fazer a criação do banco, os passos que devemos tomar para poder abrir nosso arquivo e fazer a comunicação com o banco,
+e no fim vimos como ficou o nosso projeto.
 
 
 
