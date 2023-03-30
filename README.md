@@ -10,9 +10,17 @@ Read - Ler<p>
 Update - Atualizar<p>
 Delete - Deletar<p>
 
-  Essa é a parte somente da <b>Aplicação</b>, ainda precisamos fazer a parte do <b>Banco de Dados</b>...
+  Essa é a parte somente da <b>Aplicação</b>, ainda precisamos fazer a parte do <b>Banco de Dados</b>
 
 <hr>
+Antes de tudo devemos ligar o XXAMPI para dar inicio a nossa criação de tabelas
+
+
+![xap](https://user-images.githubusercontent.com/128431515/228918075-2d19010b-cac4-4ffb-8501-20d5554c8015.png)
+
+Após ligar o XXAMPI, escolhemos um criador de banco de dados, como o msql workbench ou heidi. 
+<hr>
+
 
 No Banco você deve fazer a criação da <b>DataBase</b>, ela é o Banco onde vai ficar as suas <b>tabelas</b>. Após isso devemos fazer a criação da
 nossa Tabela e os seus <b>Campos(colunas)</b>.<p>
@@ -23,10 +31,10 @@ nossa Tabela e os seus <b>Campos(colunas)</b>.<p>
 <hr></hr>
 
 
-Ok, já temos um começo, legal. Agora vamos para A PARTE MAIS FOD# DA PROGRAMAÇÃO, VAMOS CODAR.<br>
+Ok, agora devemos pegar os arquivos que contem o nosso formulário.
 
 
-Já pode ir abrindo o seu Visual Studio Code ou o seu Sublime Text e fique atento porque vida de programador é só ERRO atrás de ERRO, e sempre existirá um para você támbem.
+Já pode ir abrindo o seu Visual Studio Code ou o seu Sublime Text e começar a entender o que cada parte funciona.
 
 
 
