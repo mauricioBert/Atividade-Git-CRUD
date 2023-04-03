@@ -35,13 +35,18 @@ Antes de tudo, você deve saber que os nossos arquivos deverão sempre estar na 
 
 Você entra no disco local C: do seu computador
 
-(imagem)
+![asd](https://user-images.githubusercontent.com/128431515/229643158-97ca5e18-8613-42c7-bfec-3fe45744473f.png)
+
 <hr>
 Após isso, deverá entrar na pasta xampp
-(imagem)
+
+![sda](https://user-images.githubusercontent.com/128431515/229643363-101e9ef2-c646-495c-acbf-df354a866d57.png)
+
+
 <hr>
 Em seguida no htdocs e colocar o seu projeto lá
-(imgem)
+
+![caa](https://user-images.githubusercontent.com/128431515/229643517-4abf1820-348d-46de-8768-cbd5877ec0a3.png)
 
 
  <hr>
@@ -53,19 +58,23 @@ Agora nós iremos codar um pouco. já podemos ir abrindo o seu Visual Studio Cod
 <hr>
 Ok, agora devemos pegar os arquivos que contem o nosso formulário.
 
-(imgem)
+![fee](https://user-images.githubusercontent.com/128431515/229643693-73cf3ee3-7926-4573-828d-5d58322b1aeb.png)
+
 
 <hr>
 
 O arquivo conexao.php é o que faz o ligamento com o banco de dados, ele é um dos arquivos chaves para poder fazer o CRUD.
 
-(imagem)
+![conex](https://user-images.githubusercontent.com/128431515/229643787-08a78f5e-d363-45f4-9ead-fe2bce53b884.png)
+
 
 <hr>
 No nosso projeto temos a tela principal que é o index, ela é onde fica a visualização do nosso formulário e é nela que damos o ponta pé inicial 
 no projeto.
 
-(imagem)
+![inde](https://user-images.githubusercontent.com/128431515/229643861-22b1a941-34b9-4498-ba00-7dbb48779c5b.png)
+
+
 <hr>
 
 Concluimos por aqui, entendemos como fazer a criação do banco, os passos que devemos tomar para poder abrir nosso arquivo e fazer a comunicação com o banco,
